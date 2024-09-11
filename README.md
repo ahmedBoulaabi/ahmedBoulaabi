@@ -1,5 +1,5 @@
 # Boulaabi Ahmed
-# Student & Software Developer
+## Student & Software Developer
 I excel in delivering high-quality digital products, leveraging a broad spectrum of programming languages and advanced technologies.
 
 ## Skills and Experience
