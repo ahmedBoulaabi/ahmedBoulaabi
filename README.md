@@ -1,7 +1,9 @@
-### Hi there 👋, Boulaabi Ahmed
-#### Student & Software Developer
+# Boulaabi Ahmed
+# Student & Software Developer
 I excel in delivering high-quality digital products, leveraging a broad spectrum of programming languages and advanced technologies.
 
+## Skills and Experience
+* ⚛
 Skills: CSS / HTML / PHP / JavaScript / Angular / React / SpringBoot / JEE / Node.js / Next.js / Python / C / C++ / Java 
 
 - 🔭 I’m currently working on this page. 
