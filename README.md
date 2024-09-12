@@ -12,7 +12,7 @@
  
  🔭 I’m currently a student looking for an **internship**
 
-💬 Ask me about **Node.js, SQL, Next.js, Ja... or anything [here](https://github.com/ahmedBoulaabi/ahmedBoulaabi/issues)**
+💬 Ask me about **Node.js, SQL, Next.js, Java... or anything [here](https://github.com/ahmedBoulaabi/ahmedBoulaabi/issues)**
 
 
  </div>
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,mysql,angular" /><br>
 </div>
 
 <br/>
@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedBoulaabi&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmedBoulaabi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedBoulaabi&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
 </div>
