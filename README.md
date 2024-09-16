@@ -10,8 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently a student looking for an **internship**
-
+ 🔭 I’m currently a student looking for an **internship**<br>
+ 🌱 I am currently pursuing the **Professional Scrum Product Owner I** certification from Scrum.org<br>
 💬 Ask me about **Node.js, SQL, Next.js, Java... or anything [here](https://github.com/ahmedBoulaabi/ahmedBoulaabi/issues)**
 
 
